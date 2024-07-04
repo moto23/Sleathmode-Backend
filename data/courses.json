@@ -1,0 +1,92 @@
+[
+  {
+      "title": "Data Science With Generative AI Course",
+      "description": "Job Assistance | Ticket to fast-tracked career growth in Data Science",
+      "registrationDate": "2024-06-29T00:00:00.000Z",
+      "category": "Paid",
+      "imageUrl": "https://cdn.analyticsvidhya.com/wp-content/uploads/2024/03/Generative-AI-course.jpg",
+      "label": "Bestseller",
+      "features": [
+          {
+              "title": "Live Classes",
+              "description": "One-on-One Interactive Learning."
+          },
+          {
+              "title": "Industry Ready Curriculum",
+              "description": "Updated industry integrated modules"
+          },
+          {
+              "title": "Industry Mentors",
+              "description": "Experienced AI Professionals"
+          },
+          {
+              "title": "Soft Skills Training",
+              "description": "Holistic Personality Development Classes"
+          },
+          {
+              "title": "Interview Preparation",
+              "description": "Mock Interviews & Resume Building Activities"
+          }
+      ]
+  },
+  {
+      "title": "Post Graduate Certification in Banking, Financial Services & Insurance",
+      "description": "Program for individuals who wish to kickstart their career in the Private Banking Industry.",
+      "registrationDate": "2024-07-01T00:00:00.000Z",
+      "category": "Paid",
+      "imageUrl": "https://img.freepik.com/premium-photo/group-professional-asian-businesspeople-discussing-their-business-financial-strategy_67155-28979.jpg",
+      "label": "Bestseller",
+      "features": [
+          {
+              "title": "Live Classes",
+              "description": "One-on-One Interactive Learning."
+          },
+          {
+              "title": "Industry Ready Curriculum",
+              "description": "BFSI industry integrated modules"
+          },
+          {
+              "title": "Industry Mentors",
+              "description": "Experienced Ex-Banking Professionals"
+          },
+          {
+              "title": "Soft Skills Training",
+              "description": "Holistic Personality Development Classes"
+          },
+          {
+              "title": "Interview Preparation",
+              "description": "Mock Interviews & Resume Building Activities"
+          }
+      ]
+  },
+  {
+      "title": "Full Stack Development Course",
+      "description": "Job Assistance | Gain Full Stack Development Expertise",
+      "registrationDate": "2024-06-29T00:00:00.000Z",
+      "category": "Paid",
+      "imageUrl": "https://oilab.in/public/img/courses/full-stack-web-developer.jpg",
+      "label": "Popular",
+      "features": [
+          {
+              "title": "Live Classes",
+              "description": "One-on-One Interactive Learning."
+          },
+          {
+              "title": "Industry Ready Curriculum",
+              "description": "Full-Stack integrated modules"
+          },
+          {
+              "title": "Industry Mentors",
+              "description": "Experienced Ex-Amazon,Google Professionals"
+          },
+          {
+              "title": "Soft Skills Training",
+              "description": "Holistic Personality Development Classes"
+          },
+          {
+              "title": "Interview Preparation",
+              "description": "Mock Interviews & Resume Building Activities"
+          }
+      ]
+  }
+]
